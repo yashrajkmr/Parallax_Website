@@ -1,5 +1,6 @@
 # Parallax_Website
 Welcome to my first project, the Parallax Website! This project showcases my introductory skills in web development, featuring a visually engaging parallax scrolling effect implemented using HTML and CSS.
+
 You can view the project live at:  https://yashrajkmr.github.io/Parallax_Website/
 
 ## Overview
